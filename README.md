@@ -6,4 +6,4 @@ Hot to use:
 Just copy feeling_clasification.keras and tokenizer.pickle into 1 directory of main.py
 
 link of model:
-will be uploaded soon in huggingface
+https://huggingface.co/dmskrDIMAS/Clasification-emotion-for-AINA/tree/main
